@@ -1,4 +1,2 @@
-# Persian-Jack
-A funny bot created by SeedTeam
-
-Source in Creating!!!!
+# Jack-Persian
+This in Creating and this is not compelte!!!!!!
